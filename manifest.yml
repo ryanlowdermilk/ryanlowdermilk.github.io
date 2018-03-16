@@ -1,0 +1,33 @@
+---
+permalink: manifest.json
+---
+
+{
+  "short_name": "{{ site.manifest_short_name }}",
+  "name": "{{ site.manifest_name }}",
+  "background_color": "#{{ site.manifest_background_color }}",
+  "theme_color": "#{{ site.manifest_theme_color }}",
+  "display": "{{ site.manifest_display }}",
+  "icons": [{
+    "src": "icon-128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "icon-152x152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "icon-144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }, {
+    "src": "icon-512x512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/"
+}
