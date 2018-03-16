@@ -6,5 +6,5 @@
                 skipWaiting: true,
                 clientsClaim: true
             });
-            workboxSW.precache([{"url":"/404.html","revision":"dfe464624566edbb14b262628a13beff"},{"url":"/about/index.html","revision":"a473d0a6eec337667f429a9fdbcdf967"},{"url":"/index.html","revision":"c5fd46bea574e73410490356242ec959"},{"url":"/jekyll/update/2018/03/16/welcome-to-jekyll.html","revision":"726a97fd49192158a145e518d1a4e5a0"},{"url":"/sw-register.js","revision":"b6f02b616abfe53e7d1900eedb1fc0ed"},{"url":"/assets/main.css","revision":"6c6b1de0fc20924a403482f02883b25b"},{"url":"/assets/minima-social-icons.svg","revision":"3a70b871c930a7ed8af27caa162af123"}]);
+            workboxSW.precache([{"url":"/404.html","revision":"dfe464624566edbb14b262628a13beff"},{"url":"/about/index.html","revision":"a473d0a6eec337667f429a9fdbcdf967"},{"url":"/index.html","revision":"c5fd46bea574e73410490356242ec959"},{"url":"/jekyll/update/2018/03/16/welcome-to-jekyll.html","revision":"726a97fd49192158a145e518d1a4e5a0"},{"url":"/sw-register.js","revision":"0ce2d87447f67919e336dbc58e4cd7aa"},{"url":"/assets/main.css","revision":"6c6b1de0fc20924a403482f02883b25b"},{"url":"/assets/minima-social-icons.svg","revision":"3a70b871c930a7ed8af27caa162af123"}]);
             
